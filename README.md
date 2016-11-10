@@ -6,6 +6,6 @@ Use the arrow keys to control the white dots on the screen, and use the 'x' and 
 
 The drone noise was created in Faust (ambience.dsp), and the popping noise was sampled from the Mac OSX System Sounds bank.
 
-Watch the demo on YouTube: 
+Watch the demo on YouTube: https://www.youtube.com/watch?v=-dpB_hmwSpo
 
 -Matt Herrero
